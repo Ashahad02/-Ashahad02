@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Shaikh Ashahad from Satara<br><br>- 🔭 I’m working as Web Devloper <br>- 📚 I'm currently learning React js<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm <b>Shaikh Ashahad </b>from Satara<br><br>- 🔭 I’m working as Web Devloper <br>- 📚 I'm currently learning React js<br>- ⚡ In my free time I ...</p>
 
 ###
 
